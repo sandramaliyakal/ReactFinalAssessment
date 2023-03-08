@@ -1,0 +1,18 @@
+.lineChartClass {
+  height: 200px;
+  width: 200px;
+}
+
+.barChartClass {
+  box-sizing: border-box;
+  display: block;
+  height: 200px;
+  width: 260px;
+  /* margin-top: -201px;
+  padding-left: 90px; */
+}
+
+.pieChartClass {
+  height: 220px;
+  width: 230px;
+}
